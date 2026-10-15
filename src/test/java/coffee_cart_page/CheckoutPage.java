@@ -61,7 +61,7 @@ public class CheckoutPage {
 //	    wait.until(ExpectedConditions.elementToBeClickable(submit));
 
 	   submit.click();
-	   Thread.sleep(2000);
+	   Thread.sleep(4000);
    }
 }
 
