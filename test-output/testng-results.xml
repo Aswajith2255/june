@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-11T16:00:48 IST" name="Default suite" finished-at="2026-10-11T16:00:58 IST" duration-ms="10581">
+    <groups>
+    </groups>
+    <test started-at="2026-10-11T16:00:48 IST" name="Default test" finished-at="2026-10-11T16:00:58 IST" duration-ms="10581">
+      <class name="coffeecart_Test.TestProduct">
+        <test-method is-config="true" signature="preProsssing()[pri:0, instance:coffeecart_Test.TestProduct@74235045]" started-at="2026-10-11T16:00:48 IST" name="preProsssing" finished-at="2026-10-11T16:00:51 IST" duration-ms="3418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preProsssing -->
+        <test-method signature="productTest()[pri:0, instance:coffeecart_Test.TestProduct@74235045]" started-at="2026-10-11T16:00:51 IST" name="productTest" finished-at="2026-10-11T16:00:58 IST" duration-ms="6858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productTest -->
+        <test-method is-config="true" signature="postprocessing()[pri:0, instance:coffeecart_Test.TestProduct@74235045]" started-at="2026-10-11T16:00:58 IST" name="postprocessing" finished-at="2026-10-11T16:00:58 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postprocessing -->
+      </class> <!-- coffeecart_Test.TestProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
